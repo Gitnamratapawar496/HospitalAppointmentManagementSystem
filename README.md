@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System
+# 🏥 Hospital Appointment Management System
 
 ## 📌 About the Project
 The Hospital Appointment Management System is a Java-based desktop application developed using Java Swing, MySQL, and JDBC. It helps manage hospital operations such as patient records, doctor details, and appointments through a simple graphical user interface.
